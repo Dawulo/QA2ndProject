@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First",
+      "author": "Matt"
+    },
+    {
+      "id": 2,
+      "title": "Second",
+      "author": "Sam"
+    },
+    {
+      "id": 3,
+      "title": "Third",
+      "author": "John"
+    },
+    {
+      "id": 4,
+      "title": "Fourth",
+      "author": "John"
+    },
+    {
+      "id": 5,
+      "title": "Fifth",
+      "author": "Tom"
+    },
+    {
+      "id": 6,
+      "title": "Sixth",
+      "author": "Steve"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
